@@ -1,3 +1,25 @@
+
+
+python 2.7 - 3.xxx
+django 1.7.8 - 1.8
+django-tenant-schemas -  1.5.2 - 1.7
+#Collectfast==0.2.1 - 0.5.2
+jdcal==1.0 - 1.0.1
+
+Collecting faulthandler==2.4 (from -r requirements.txt (line 61))
+  Using cached faulthandler-2.4.tar.gz
+    Complete output from command python setup.py egg_info:
+    ERROR: faulthandler is a builtin module since Python 3.3
+    
+   poster - nao tem mais versao para python3
+
+
+#python-ldap==2.4.18
+python3-ldap==0.9.8.4
+
+
+
+
 This project is no longer active and you are not advised to use it. Read more [here](http://davidmburke.com/2015/07/18/mistakes-to-make-when-starting-a-business-with-python/) if you'd like.
 
 # Schooldriver 
